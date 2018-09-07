@@ -1,0 +1,7 @@
+CURRDIR=/afs/cern.ch/user/y/yuanc/HCAL/PFG_HF_timing/CMSSW_10_1_2/src/HCALPFG/HcalTupleMaker/test/test/6710
+FILE=HcalPfgStudies
+OUTPUT=hcal_histograms_full.root
+
+cd ${CURRDIR}
+eval `./${FILE} /eos/cms/store/user/yuanc/NTuple/PFG_HF_timing/315689_IsolatedBunch hcalTupleTree/tree 0`
+cp ${OUTPUT} ${CURRDIR}

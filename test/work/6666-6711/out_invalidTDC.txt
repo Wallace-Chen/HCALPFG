@@ -1,0 +1,3990 @@
+Invalid TDC!
+run 316470, ls 324, evn 427779226, bx 2423, orbit 84905601
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 202, TDC = 54
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 324, evn 426916820, bx 2423, orbit 84733121
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 187, TDC = 59
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 324, evn 426916820, bx 2423, orbit 84733121
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 187, TDC = 59
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 324, evn 426916820, bx 2423, orbit 84733121
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 187, TDC = 59
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 326, evn 429367187, bx 2423, orbit 85223144
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 246, TDC = 59
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 326, evn 429367187, bx 2423, orbit 85223144
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 252, TDC = 59
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 326, evn 429367187, bx 2423, orbit 85223144
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 62, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 327, evn 430642915, bx 2423, orbit 85478633
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 23, TDC = 54
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 327, evn 431735667, bx 2423, orbit 85697533
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 188, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 327, evn 431735667, bx 2423, orbit 85697533
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 188, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 327, evn 431735667, bx 2423, orbit 85697533
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 188, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 328, evn 431914640, bx 2423, orbit 85733462
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 185, TDC = 60
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 328, evn 431914640, bx 2423, orbit 85733462
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 246, TDC = 55
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 329, evn 434273124, bx 2423, orbit 86207411
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 228, TDC = 51
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 329, evn 434273124, bx 2423, orbit 86207411
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 118, TDC = 57
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 329, evn 434273124, bx 2423, orbit 86207411
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 228, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 329, evn 433443507, bx 2423, orbit 86040926
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 136, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 329, evn 433443507, bx 2423, orbit 86040926
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 90, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 329, evn 434200704, bx 2423, orbit 86192891
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 19, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 329, evn 434200704, bx 2423, orbit 86192891
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 31, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 329, evn 434200704, bx 2423, orbit 86192891
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 150, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 329, evn 434200704, bx 2423, orbit 86192891
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 20, TDC = 54
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 329, evn 434200704, bx 2423, orbit 86192891
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 240, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 330, evn 435693781, bx 2423, orbit 86493535
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 94, TDC = 51
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 330, evn 435693781, bx 2423, orbit 86493535
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 99, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 330, evn 435693781, bx 2423, orbit 86493535
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 164, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 332, evn 437602913, bx 2423, orbit 86877573
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 119, TDC = 59
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 332, evn 437602913, bx 2423, orbit 86877573
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 47, TDC = 58
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 332, evn 437602913, bx 2423, orbit 86877573
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 38, TDC = 51
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 334, evn 440370945, bx 2423, orbit 87433486
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 245, TDC = 52
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 334, evn 440370945, bx 2423, orbit 87433486
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 252, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 334, evn 440370945, bx 2423, orbit 87433486
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 240, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 335, evn 441152632, bx 2423, orbit 87591295
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 83, TDC = 50
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 335, evn 441152632, bx 2423, orbit 87591295
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 83, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 335, evn 441152632, bx 2423, orbit 87591295
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 255, TDC = 50
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 335, evn 441886491, bx 2423, orbit 87743370
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 42, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 335, evn 441886491, bx 2423, orbit 87743370
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 156, TDC = 50
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 335, evn 441886491, bx 2423, orbit 87743370
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 240, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 336, evn 443306555, bx 2423, orbit 88029274
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 59, TDC = 53
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 336, evn 443306555, bx 2423, orbit 88029274
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 87, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 336, evn 443306555, bx 2423, orbit 88029274
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 95, TDC = 57
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 336, evn 443306555, bx 2423, orbit 88029274
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 135, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 337, evn 444440834, bx 2423, orbit 88258968
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 231, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 337, evn 444440834, bx 2423, orbit 88258968
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 85, TDC = 55
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 337, evn 444440834, bx 2423, orbit 88258968
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 0, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 339, evn 446334616, bx 2423, orbit 88640586
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 12, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 339, evn 446334616, bx 2423, orbit 88640586
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 199, TDC = 54
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 339, evn 446538090, bx 2423, orbit 88681561
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 110, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 339, evn 446538090, bx 2423, orbit 88681561
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 55, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 339, evn 446538090, bx 2423, orbit 88681561
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 51, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 340, evn 448485264, bx 2423, orbit 89074110
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 190, TDC = 50
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 340, evn 448485264, bx 2423, orbit 89074110
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 62, TDC = 51
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 340, evn 448485264, bx 2423, orbit 89074110
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 95, TDC = 55
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 340, evn 448485264, bx 2423, orbit 89074110
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 92, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 340, evn 448485264, bx 2423, orbit 89074110
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 33, TDC = 60
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 342, evn 450812613, bx 2423, orbit 89544333
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 125, TDC = 51
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 342, evn 450812613, bx 2423, orbit 89544333
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 227, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 342, evn 451269565, bx 2423, orbit 89636843
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 255, TDC = 51
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 342, evn 451269565, bx 2423, orbit 89636843
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 255, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 342, evn 451269565, bx 2423, orbit 89636843
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 175, TDC = 55
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 342, evn 451269565, bx 2423, orbit 89636843
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 161, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 343, evn 452568649, bx 2423, orbit 89899922
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 124, TDC = 60
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 343, evn 452568649, bx 2423, orbit 89899922
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 87, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 344, evn 453001815, bx 2423, orbit 89987441
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 55, TDC = 51
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 344, evn 453001815, bx 2423, orbit 89987441
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 121, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 344, evn 453001815, bx 2423, orbit 89987441
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 103, TDC = 60
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 346, evn 455515479, bx 2423, orbit 90497154
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 195, TDC = 57
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 346, evn 455515479, bx 2423, orbit 90497154
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 135, TDC = 57
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 348, evn 459078590, bx 2423, orbit 91219057
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 34, TDC = 51
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 348, evn 459078590, bx 2423, orbit 91219057
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 34, TDC = 51
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 348, evn 459078590, bx 2423, orbit 91219057
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 34, TDC = 51
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 348, evn 459078590, bx 2423, orbit 91219057
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 34, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 348, evn 459078590, bx 2423, orbit 91219057
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 34, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 348, evn 459078590, bx 2423, orbit 91219057
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 34, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 349, evn 460057321, bx 2423, orbit 91417071
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 188, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 349, evn 460057321, bx 2423, orbit 91417071
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 188, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 349, evn 460057321, bx 2423, orbit 91417071
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 188, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 350, evn 461673311, bx 2423, orbit 91744280
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 125, TDC = 51
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 350, evn 461673311, bx 2423, orbit 91744280
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 125, TDC = 51
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 350, evn 461673311, bx 2423, orbit 91744280
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 125, TDC = 51
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 353, evn 465344114, bx 2423, orbit 92488637
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 247, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 356, evn 468834148, bx 2423, orbit 93198289
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 246, TDC = 51
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 356, evn 468834148, bx 2423, orbit 93198289
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 116, TDC = 55
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 356, evn 468834148, bx 2423, orbit 93198289
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 184, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 356, evn 468950504, bx 2423, orbit 93221884
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 134, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 356, evn 468950504, bx 2423, orbit 93221884
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 134, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 356, evn 468950504, bx 2423, orbit 93221884
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 134, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 356, evn 468427286, bx 2423, orbit 93115404
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 154, TDC = 59
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 356, evn 468427286, bx 2423, orbit 93115404
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 229, TDC = 55
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 356, evn 468427286, bx 2423, orbit 93115404
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 181, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 356, evn 468427286, bx 2423, orbit 93115404
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 188, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 356, evn 468427286, bx 2423, orbit 93115404
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 200, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 357, evn 470630029, bx 2423, orbit 93564053
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 231, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 357, evn 470630029, bx 2423, orbit 93564053
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 4, TDC = 51
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 359, evn 472520411, bx 2423, orbit 93949521
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 124, TDC = 53
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 359, evn 472520411, bx 2423, orbit 93949521
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 181, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 360, evn 474284746, bx 2423, orbit 94309070
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 167, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 360, evn 474284746, bx 2423, orbit 94309070
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 85, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 361, evn 474649740, bx 2423, orbit 94383554
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 103, TDC = 55
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 361, evn 474649740, bx 2423, orbit 94383554
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 103, TDC = 55
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 361, evn 474649740, bx 2423, orbit 94383554
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 103, TDC = 55
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 362, evn 475994992, bx 2423, orbit 94658458
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 154, TDC = 59
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 362, evn 475994992, bx 2423, orbit 94658458
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 100, TDC = 55
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 362, evn 476683470, bx 2423, orbit 94799148
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 251, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 362, evn 476683470, bx 2423, orbit 94799148
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 116, TDC = 50
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 362, evn 476683470, bx 2423, orbit 94799148
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 240, TDC = 59
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 363, evn 477880469, bx 2423, orbit 95043802
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 62, TDC = 55
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 363, evn 477880469, bx 2423, orbit 95043802
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 149, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 364, evn 478570416, bx 2423, orbit 95185331
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 89, TDC = 55
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 364, evn 478570416, bx 2423, orbit 95185331
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 123, TDC = 51
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 364, evn 478570416, bx 2423, orbit 95185331
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 191, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 364, evn 478570416, bx 2423, orbit 95185331
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 255, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 366, evn 480991526, bx 2423, orbit 95786509
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 231, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 366, evn 480991526, bx 2423, orbit 95786509
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 92, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 366, evn 480991526, bx 2423, orbit 95786509
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 255, TDC = 56
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 366, evn 480991526, bx 2423, orbit 95786509
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 255, TDC = 50
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 366, evn 481642845, bx 2423, orbit 95919884
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 81, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 366, evn 481642845, bx 2423, orbit 95919884
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 219, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 366, evn 481642845, bx 2423, orbit 95919884
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 148, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 367, evn 482903318, bx 2423, orbit 96178288
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 255, TDC = 55
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 367, evn 482903318, bx 2423, orbit 96178288
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 176, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 367, evn 482903318, bx 2423, orbit 96178288
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 148, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 369, evn 484407327, bx 2423, orbit 96486371
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 124, TDC = 53
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 369, evn 484407327, bx 2423, orbit 96486371
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 231, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 369, evn 484407327, bx 2423, orbit 96486371
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 4, TDC = 51
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 369, evn 484407327, bx 2423, orbit 96486371
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 186, TDC = 52
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 369, evn 484795826, bx 2423, orbit 96566231
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 99, TDC = 50
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 369, evn 484795826, bx 2423, orbit 96566231
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 129, TDC = 58
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 371, evn 487497096, bx 2423, orbit 97121099
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 178, TDC = 59
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 371, evn 487497096, bx 2423, orbit 97121099
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 178, TDC = 59
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 371, evn 487497096, bx 2423, orbit 97121099
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 178, TDC = 59
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 372, evn 488257476, bx 2423, orbit 97277368
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 253, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 372, evn 489177648, bx 2423, orbit 97466073
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 170, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 372, evn 489177648, bx 2423, orbit 97466073
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 170, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 372, evn 489177648, bx 2423, orbit 97466073
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 170, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 372, evn 488934482, bx 2423, orbit 97416188
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 231, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 373, evn 490259616, bx 2423, orbit 97688122
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 26, TDC = 55
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 375, evn 492775175, bx 2423, orbit 98205205
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 36, TDC = 60
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 376, evn 493589236, bx 2423, orbit 98372529
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 59, TDC = 51
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 376, evn 493589236, bx 2423, orbit 98372529
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 85, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 376, evn 493589236, bx 2423, orbit 98372529
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 59, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 376, evn 493589236, bx 2423, orbit 98372529
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 4, TDC = 54
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 376, evn 493984825, bx 2423, orbit 98454094
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 255, TDC = 59
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 376, evn 493984825, bx 2423, orbit 98454094
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 255, TDC = 59
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 376, evn 493984825, bx 2423, orbit 98454094
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 255, TDC = 59
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 376, evn 493984825, bx 2423, orbit 98454094
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 255, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 376, evn 493984825, bx 2423, orbit 98454094
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 255, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 376, evn 493984825, bx 2423, orbit 98454094
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 255, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 376, evn 493984825, bx 2423, orbit 98454094
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 42, TDC = 51
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 376, evn 493984825, bx 2423, orbit 98454094
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 42, TDC = 51
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 376, evn 493984825, bx 2423, orbit 98454094
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 42, TDC = 51
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 376, evn 493984825, bx 2423, orbit 98454094
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 42, TDC = 59
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 376, evn 493984825, bx 2423, orbit 98454094
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 42, TDC = 59
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 376, evn 493984825, bx 2423, orbit 98454094
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 42, TDC = 59
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 377, evn 495742339, bx 2423, orbit 98815678
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 187, TDC = 54
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 377, evn 495742339, bx 2423, orbit 98815678
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 120, TDC = 55
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 378, evn 496428494, bx 2423, orbit 98956932
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 62, TDC = 60
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 378, evn 496428494, bx 2423, orbit 98956932
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 80, TDC = 52
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 378, evn 496428494, bx 2423, orbit 98956932
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 179, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 378, evn 496428494, bx 2423, orbit 98956932
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 134, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 378, evn 496779595, bx 2423, orbit 99029257
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 123, TDC = 59
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 378, evn 496779595, bx 2423, orbit 99029257
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 123, TDC = 59
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 379, evn 497873797, bx 2423, orbit 99254331
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 83, TDC = 55
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 379, evn 497873797, bx 2423, orbit 99254331
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 15, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 379, evn 497873797, bx 2423, orbit 99254331
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 17, TDC = 56
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 380, evn 499086956, bx 2423, orbit 99503880
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 120, TDC = 50
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 380, evn 499086956, bx 2423, orbit 99503880
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 87, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 380, evn 499516223, bx 2423, orbit 99592320
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 4, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 380, evn 499279801, bx 2423, orbit 99543535
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 118, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 380, evn 499279801, bx 2423, orbit 99543535
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 6, TDC = 56
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 382, evn 501327874, bx 2423, orbit 99965028
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 255, TDC = 55
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 382, evn 501327874, bx 2423, orbit 99965028
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 255, TDC = 50
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 382, evn 501327874, bx 2423, orbit 99965028
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 235, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 382, evn 501327874, bx 2423, orbit 99965028
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 57, TDC = 51
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 382, evn 501327874, bx 2423, orbit 99965028
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 148, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 382, evn 501327874, bx 2423, orbit 99965028
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 240, TDC = 50
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 382, evn 501327874, bx 2423, orbit 99965028
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 148, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 385, evn 505745939, bx 2423, orbit 100876420
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 118, TDC = 54
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 385, evn 505745939, bx 2423, orbit 100876420
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 247, TDC = 52
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 385, evn 505193242, bx 2423, orbit 100762240
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 83, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 386, evn 506739091, bx 2423, orbit 101081474
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 119, TDC = 59
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 387, evn 507502836, bx 2423, orbit 101239118
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 251, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 387, evn 507502836, bx 2423, orbit 101239118
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 113, TDC = 51
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 389, evn 510427589, bx 2423, orbit 101843266
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 189, TDC = 55
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 389, evn 510427589, bx 2423, orbit 101843266
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 103, TDC = 60
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 389, evn 510330759, bx 2423, orbit 101823246
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 253, TDC = 55
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 389, evn 510330759, bx 2423, orbit 101823246
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 60, TDC = 60
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 389, evn 510330759, bx 2423, orbit 101823246
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 117, TDC = 59
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 389, evn 510333380, bx 2423, orbit 101823796
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 83, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 389, evn 510333380, bx 2423, orbit 101823796
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 115, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 389, evn 510333380, bx 2423, orbit 101823796
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 102, TDC = 55
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 389, evn 510333380, bx 2423, orbit 101823796
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 149, TDC = 60
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 390, evn 511741548, bx 2423, orbit 102120205
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 55, TDC = 60
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 390, evn 511741548, bx 2423, orbit 102120205
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 18, TDC = 53
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 390, evn 511898297, bx 2423, orbit 102152765
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 67, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 390, evn 511898297, bx 2423, orbit 102152765
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 67, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 390, evn 511898297, bx 2423, orbit 102152765
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 67, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 391, evn 512900785, bx 2423, orbit 102368819
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 72, TDC = 60
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 391, evn 512900785, bx 2423, orbit 102368819
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 189, TDC = 50
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 391, evn 512900785, bx 2423, orbit 102368819
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 103, TDC = 55
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 391, evn 513065633, bx 2423, orbit 102402919
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 88, TDC = 55
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 392, evn 513936935, bx 2423, orbit 102583058
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 216, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 392, evn 513936935, bx 2423, orbit 102583058
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 71, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 392, evn 513936935, bx 2423, orbit 102583058
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 231, TDC = 56
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 392, evn 513936935, bx 2423, orbit 102583058
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 4, TDC = 57
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 392, evn 513936935, bx 2423, orbit 102583058
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 247, TDC = 60
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 393, evn 515121413, bx 2423, orbit 102828537
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 10, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 393, evn 515563802, bx 2423, orbit 102920002
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 183, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 393, evn 515563802, bx 2423, orbit 102920002
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 240, TDC = 57
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 393, evn 515563802, bx 2423, orbit 102920002
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 200, TDC = 59
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 393, evn 515413807, bx 2423, orbit 102888982
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 255, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 393, evn 515413807, bx 2423, orbit 102888982
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 255, TDC = 60
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 393, evn 515413807, bx 2423, orbit 102888982
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 228, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 393, evn 515413807, bx 2423, orbit 102888982
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 148, TDC = 53
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 395, evn 518125667, bx 2423, orbit 103450890
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 115, TDC = 55
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 395, evn 518125667, bx 2423, orbit 103450890
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 115, TDC = 55
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 395, evn 518125667, bx 2423, orbit 103450890
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 115, TDC = 55
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 395, evn 518005086, bx 2423, orbit 103425865
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 106, TDC = 51
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 395, evn 518005086, bx 2423, orbit 103425865
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 190, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 395, evn 518005086, bx 2423, orbit 103425865
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 242, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 395, evn 518005086, bx 2423, orbit 103425865
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 106, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 395, evn 518005086, bx 2423, orbit 103425865
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 248, TDC = 56
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 395, evn 518005086, bx 2423, orbit 103425865
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 254, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 397, evn 521088225, bx 2423, orbit 104068513
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 115, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 397, evn 521088225, bx 2423, orbit 104068513
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 115, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 397, evn 521088225, bx 2423, orbit 104068513
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 115, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 397, evn 521097735, bx 2423, orbit 104070493
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 183, TDC = 55
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 397, evn 521097735, bx 2423, orbit 104070493
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 197, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 397, evn 521097735, bx 2423, orbit 104070493
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 225, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 397, evn 521097735, bx 2423, orbit 104070493
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 79, TDC = 50
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 398, evn 521914297, bx 2423, orbit 104239467
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 123, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 398, evn 522193299, bx 2423, orbit 104297657
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 61, TDC = 55
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 398, evn 522193299, bx 2423, orbit 104297657
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 99, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 398, evn 522193299, bx 2423, orbit 104297657
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 20, TDC = 53
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 399, evn 523614689, bx 2423, orbit 104592581
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 196, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 399, evn 523614689, bx 2423, orbit 104592581
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 196, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 399, evn 523614689, bx 2423, orbit 104592581
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 196, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 399, evn 522734160, bx 2423, orbit 104409816
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 202, TDC = 59
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 399, evn 522734160, bx 2423, orbit 104409816
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 250, TDC = 51
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 399, evn 522734160, bx 2423, orbit 104409816
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 103, TDC = 55
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 399, evn 522734160, bx 2423, orbit 104409816
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 109, TDC = 53
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 400, evn 524056075, bx 2423, orbit 104684390
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 85, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 400, evn 524056075, bx 2423, orbit 104684390
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 14, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 400, evn 524056075, bx 2423, orbit 104684390
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 148, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 400, evn 524056075, bx 2423, orbit 104684390
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 149, TDC = 53
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 400, evn 524056075, bx 2423, orbit 104684390
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 149, TDC = 56
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 401, evn 525134914, bx 2423, orbit 104908529
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 231, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 401, evn 525134914, bx 2423, orbit 104908529
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 4, TDC = 51
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 402, evn 527203909, bx 2423, orbit 105338533
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 227, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 402, evn 527203909, bx 2423, orbit 105338533
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 227, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 402, evn 527203909, bx 2423, orbit 105338533
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 227, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 402, evn 527203909, bx 2423, orbit 105338533
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 188, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 402, evn 527203909, bx 2423, orbit 105338533
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 188, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 402, evn 527203909, bx 2423, orbit 105338533
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 188, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 402, evn 526694602, bx 2423, orbit 105232823
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 30, TDC = 51
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 402, evn 526694602, bx 2423, orbit 105232823
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 30, TDC = 51
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 402, evn 526694602, bx 2423, orbit 105232823
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 30, TDC = 51
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 403, evn 528581610, bx 2423, orbit 105624437
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 252, TDC = 50
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 403, evn 528581610, bx 2423, orbit 105624437
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 193, TDC = 56
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 403, evn 528581610, bx 2423, orbit 105624437
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 193, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 404, evn 528931564, bx 2423, orbit 105697216
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 117, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 410, evn 536704171, bx 2423, orbit 107319140
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 83, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 410, evn 536704171, bx 2423, orbit 107319140
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 69, TDC = 52
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 410, evn 536704171, bx 2423, orbit 107319140
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 252, TDC = 57
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 411, evn 538056354, bx 2423, orbit 107601634
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 149, TDC = 50
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 411, evn 538056354, bx 2423, orbit 107601634
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 255, TDC = 55
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 411, evn 538056354, bx 2423, orbit 107601634
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 123, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 411, evn 538056354, bx 2423, orbit 107601634
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 255, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 411, evn 538056354, bx 2423, orbit 107601634
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 148, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 411, evn 538056354, bx 2423, orbit 107601634
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 148, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 413, evn 540072114, bx 2423, orbit 108023017
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 187, TDC = 50
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 414, evn 541307165, bx 2423, orbit 108281696
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 59, TDC = 59
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 414, evn 541307165, bx 2423, orbit 108281696
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 85, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 414, evn 541307165, bx 2423, orbit 108281696
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 202, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 414, evn 541307165, bx 2423, orbit 108281696
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 197, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 416, evn 544120462, bx 2423, orbit 108870719
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 235, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 416, evn 544049480, bx 2423, orbit 108855759
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 59, TDC = 55
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 416, evn 544049480, bx 2423, orbit 108855759
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 215, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 416, evn 544049480, bx 2423, orbit 108855759
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 255, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 416, evn 544169688, bx 2423, orbit 108881004
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 188, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 416, evn 544169688, bx 2423, orbit 108881004
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 188, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 416, evn 544169688, bx 2423, orbit 108881004
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 188, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 416, evn 544266819, bx 2423, orbit 108901409
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 202, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 416, evn 544266819, bx 2423, orbit 108901409
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 219, TDC = 54
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 416, evn 544266819, bx 2423, orbit 108901409
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 202, TDC = 55
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 416, evn 544266819, bx 2423, orbit 108901409
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 0, TDC = 51
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 416, evn 544266819, bx 2423, orbit 108901409
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 17, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 416, evn 544266819, bx 2423, orbit 108901409
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 109, TDC = 55
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 422, evn 551532394, bx 2423, orbit 110535543
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 115, TDC = 57
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 422, evn 551532394, bx 2423, orbit 110535543
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 31, TDC = 51
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 422, evn 551532394, bx 2423, orbit 110535543
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 255, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 422, evn 551532394, bx 2423, orbit 110535543
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 255, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 423, evn 552485425, bx 2423, orbit 110735977
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 121, TDC = 54
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 423, evn 552485425, bx 2423, orbit 110735977
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 110, TDC = 52
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 425, evn 555101858, bx 2423, orbit 111287435
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 127, TDC = 51
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 425, evn 555101858, bx 2423, orbit 111287435
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 133, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 425, evn 555101858, bx 2423, orbit 111287435
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 127, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 427, evn 557577452, bx 2423, orbit 111809138
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 255, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 427, evn 557577452, bx 2423, orbit 111809138
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 4, TDC = 51
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 427, evn 557577452, bx 2423, orbit 111809138
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 148, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 431, evn 562369066, bx 2423, orbit 112821634
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 155, TDC = 51
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 432, evn 563632180, bx 2423, orbit 113088178
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 71, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 432, evn 563632180, bx 2423, orbit 113088178
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 71, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 432, evn 563632180, bx 2423, orbit 113088178
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 71, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 435, evn 567823303, bx 2423, orbit 113972950
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 126, TDC = 57
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 435, evn 567823303, bx 2423, orbit 113972950
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 143, TDC = 50
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 435, evn 567823303, bx 2423, orbit 113972950
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 50, TDC = 51
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 435, evn 567823303, bx 2423, orbit 113972950
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 39, TDC = 50
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 435, evn 567823303, bx 2423, orbit 113972950
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 73, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 435, evn 568005638, bx 2423, orbit 114011450
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 251, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 435, evn 568005638, bx 2423, orbit 114011450
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 120, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 435, evn 568005638, bx 2423, orbit 114011450
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 6, TDC = 51
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 436, evn 568668087, bx 2423, orbit 114151494
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 187, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 436, evn 568668087, bx 2423, orbit 114151494
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 176, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 436, evn 568146432, bx 2423, orbit 114041164
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 248, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 436, evn 568146432, bx 2423, orbit 114041164
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 117, TDC = 59
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 436, evn 568251868, bx 2423, orbit 114063439
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 248, TDC = 57
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 437, evn 570379196, bx 2423, orbit 114513078
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 118, TDC = 59
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 437, evn 570379196, bx 2423, orbit 114513078
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 248, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 437, evn 569810638, bx 2423, orbit 114393013
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 221, TDC = 53
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 437, evn 569810638, bx 2423, orbit 114393013
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 219, TDC = 54
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 438, evn 571672743, bx 2423, orbit 114786552
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 115, TDC = 56
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 438, evn 571672743, bx 2423, orbit 114786552
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 255, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 438, evn 571672743, bx 2423, orbit 114786552
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 149, TDC = 50
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 438, evn 571724552, bx 2423, orbit 114797497
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 112, TDC = 51
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 438, evn 571724552, bx 2423, orbit 114797497
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 112, TDC = 51
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 438, evn 571724552, bx 2423, orbit 114797497
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 112, TDC = 51
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 438, evn 571123908, bx 2423, orbit 114670612
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 83, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 439, evn 572684310, bx 2423, orbit 115000626
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 45, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 439, evn 572684310, bx 2423, orbit 115000626
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 101, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 441, evn 574999047, bx 2423, orbit 115490814
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 67, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 441, evn 574999047, bx 2423, orbit 115490814
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 67, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 441, evn 574999047, bx 2423, orbit 115490814
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 67, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 443, evn 577944211, bx 2423, orbit 116115642
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 241, TDC = 51
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 443, evn 577944211, bx 2423, orbit 116115642
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 237, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 443, evn 577944211, bx 2423, orbit 116115642
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 67, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 443, evn 577036483, bx 2423, orbit 115923087
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 159, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 443, evn 577036483, bx 2423, orbit 115923087
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 159, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 443, evn 577036483, bx 2423, orbit 115923087
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 159, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 443, evn 577036483, bx 2423, orbit 115923087
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 18, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 443, evn 577036483, bx 2423, orbit 115923087
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 18, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 443, evn 577036483, bx 2423, orbit 115923087
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 18, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 445, evn 579945485, bx 2423, orbit 116540765
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 83, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 445, evn 579945485, bx 2423, orbit 116540765
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 71, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 445, evn 579945485, bx 2423, orbit 116540765
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 4, TDC = 51
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 445, evn 579945485, bx 2423, orbit 116540765
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 4, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 445, evn 579920551, bx 2423, orbit 116535485
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 3, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 445, evn 579920551, bx 2423, orbit 116535485
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 194, TDC = 57
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 446, evn 580860639, bx 2423, orbit 116735424
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 246, TDC = 51
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 446, evn 580860639, bx 2423, orbit 116735424
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 50, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 446, evn 580860639, bx 2423, orbit 116735424
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 254, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 448, evn 582955337, bx 2423, orbit 117181667
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 67, TDC = 55
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 448, evn 582955337, bx 2423, orbit 117181667
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 67, TDC = 55
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 448, evn 582955337, bx 2423, orbit 117181667
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 67, TDC = 55
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 449, evn 584536413, bx 2423, orbit 117518336
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 91, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 449, evn 584536413, bx 2423, orbit 117518336
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 91, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 449, evn 584536413, bx 2423, orbit 117518336
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 91, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 450, evn 586130485, bx 2423, orbit 117858910
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 183, TDC = 60
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 450, evn 586130485, bx 2423, orbit 117858910
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 96, TDC = 55
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 452, evn 588894722, bx 2423, orbit 118449253
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 71, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 452, evn 588894722, bx 2423, orbit 118449253
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 86, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 455, evn 591539165, bx 2423, orbit 119014420
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 101, TDC = 53
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 455, evn 591539165, bx 2423, orbit 119014420
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 59, TDC = 51
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 455, evn 592068952, bx 2423, orbit 119127775
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 41, TDC = 59
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 455, evn 592068952, bx 2423, orbit 119127775
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 41, TDC = 59
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 455, evn 592068952, bx 2423, orbit 119127775
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 41, TDC = 59
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 455, evn 592706757, bx 2423, orbit 119264780
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 166, TDC = 54
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 455, evn 592706757, bx 2423, orbit 119264780
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 121, TDC = 58
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 457, evn 594764299, bx 2423, orbit 119706073
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 55, TDC = 55
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 457, evn 594764299, bx 2423, orbit 119706073
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 90, TDC = 58
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 457, evn 594764299, bx 2423, orbit 119706073
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 99, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 457, evn 594764299, bx 2423, orbit 119706073
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 118, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 458, evn 595988834, bx 2423, orbit 119968162
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 223, TDC = 60
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 458, evn 595988834, bx 2423, orbit 119968162
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 15, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 458, evn 595988834, bx 2423, orbit 119968162
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 55, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 458, evn 595988834, bx 2423, orbit 119968162
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 102, TDC = 55
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 458, evn 595988834, bx 2423, orbit 119968162
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 55, TDC = 57
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 458, evn 595988834, bx 2423, orbit 119968162
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 87, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 459, evn 596712010, bx 2423, orbit 120122451
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 125, TDC = 60
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 460, evn 598758057, bx 2423, orbit 120563675
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 249, TDC = 51
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 460, evn 598758057, bx 2423, orbit 120563675
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 238, TDC = 50
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 460, evn 598758057, bx 2423, orbit 120563675
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 238, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 460, evn 598758057, bx 2423, orbit 120563675
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 18, TDC = 53
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 461, evn 598868162, bx 2423, orbit 120587284
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 93, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 461, evn 598868162, bx 2423, orbit 120587284
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 176, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 461, evn 598868162, bx 2423, orbit 120587284
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 12, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 461, evn 598868162, bx 2423, orbit 120587284
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 129, TDC = 54
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 463, evn 602190237, bx 2423, orbit 121299012
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 255, TDC = 59
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 463, evn 602190237, bx 2423, orbit 121299012
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 235, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 463, evn 602190237, bx 2423, orbit 121299012
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 243, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 463, evn 602190237, bx 2423, orbit 121299012
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 148, TDC = 50
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 463, evn 602190237, bx 2423, orbit 121299012
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 24, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 463, evn 602190237, bx 2423, orbit 121299012
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 198, TDC = 58
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 463, evn 602190237, bx 2423, orbit 121299012
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 36, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 464, evn 603743865, bx 2423, orbit 121632491
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 62, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 464, evn 603743865, bx 2423, orbit 121632491
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 159, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 465, evn 604875806, bx 2423, orbit 121875605
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 149, TDC = 59
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 465, evn 604875806, bx 2423, orbit 121875605
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 106, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 466, evn 606108446, bx 2423, orbit 122140554
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 144, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 468, evn 608573724, bx 2423, orbit 122671332
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 206, TDC = 55
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 468, evn 608573724, bx 2423, orbit 122671332
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 219, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 468, evn 608573724, bx 2423, orbit 122671332
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 3, TDC = 53
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 468, evn 608573724, bx 2423, orbit 122671332
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 6, TDC = 51
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 468, evn 608573724, bx 2423, orbit 122671332
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 143, TDC = 57
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 468, evn 608573724, bx 2423, orbit 122671332
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 66, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316470, ls 469, evn 608787549, bx 2423, orbit 122717381
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 107, TDC = 59
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 469, evn 608787549, bx 2423, orbit 122717381
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 107, TDC = 55
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 469, evn 608787549, bx 2423, orbit 122717381
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 101, TDC = 56
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 473, evn 614030863, bx 2423, orbit 123862647
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 62, TDC = 50
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 473, evn 614030863, bx 2423, orbit 123862647
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 248, TDC = 55
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 473, evn 614030863, bx 2423, orbit 123862647
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 12, TDC = 50
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316470, ls 474, evn 615796971, bx 2423, orbit 124244691
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 255, TDC = 59
+QIE10 # is: 770
+
+Invalid TDC!
+run 316470, ls 474, evn 615796971, bx 2423, orbit 124244691
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 55, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 474, evn 615796971, bx 2423, orbit 124244691
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 255, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316470, ls 474, evn 615796971, bx 2423, orbit 124244691
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 12, TDC = 51
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 1, evn 476040, bx 2423, orbit 107909
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 244, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 5, evn 5932979, bx 2423, orbit 1304820
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 89, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 5, evn 5932979, bx 2423, orbit 1304820
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 200, TDC = 50
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 8, evn 8476813, bx 2423, orbit 1859812
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 7, TDC = 59
+QIE10 # is: 770
+
+Invalid TDC!
+run 316472, ls 8, evn 8476813, bx 2423, orbit 1859812
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 15, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 8, evn 8476813, bx 2423, orbit 1859812
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 51, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 9, evn 9584104, bx 2423, orbit 2101221
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 224, TDC = 52
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 10, evn 11745768, bx 2423, orbit 2573850
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 61, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 10, evn 11745768, bx 2423, orbit 2573850
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 110, TDC = 55
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 10, evn 11745768, bx 2423, orbit 2573850
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 99, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 10, evn 11745768, bx 2423, orbit 2573850
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 164, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 10, evn 11472758, bx 2423, orbit 2514175
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 143, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 10, evn 11472758, bx 2423, orbit 2514175
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 143, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 10, evn 11472758, bx 2423, orbit 2514175
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 143, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 12, evn 13717854, bx 2423, orbit 3005463
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 165, TDC = 55
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 12, evn 13717854, bx 2423, orbit 3005463
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 116, TDC = 55
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 12, evn 13717854, bx 2423, orbit 3005463
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 13, TDC = 51
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 13, evn 15471677, bx 2423, orbit 3393997
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 102, TDC = 59
+QIE10 # is: 770
+
+Invalid TDC!
+run 316472, ls 13, evn 15471677, bx 2423, orbit 3393997
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 252, TDC = 50
+QIE10 # is: 770
+
+Invalid TDC!
+run 316472, ls 13, evn 15471677, bx 2423, orbit 3393997
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 159, TDC = 50
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 14, evn 16170682, bx 2423, orbit 3547516
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 55, TDC = 56
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 14, evn 16170682, bx 2423, orbit 3547516
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 73, TDC = 50
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 14, evn 16170682, bx 2423, orbit 3547516
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 154, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 16, evn 18004562, bx 2423, orbit 3950969
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 85, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 16, evn 18004562, bx 2423, orbit 3950969
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 171, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 16, evn 18779747, bx 2423, orbit 4121084
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 61, TDC = 60
+QIE10 # is: 770
+
+Invalid TDC!
+run 316472, ls 16, evn 18779747, bx 2423, orbit 4121084
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 99, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 16, evn 18779747, bx 2423, orbit 4121084
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 102, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 17, evn 19748345, bx 2423, orbit 4332628
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 134, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 17, evn 19748345, bx 2423, orbit 4332628
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 134, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 17, evn 19748345, bx 2423, orbit 4332628
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 134, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 17, evn 19951290, bx 2423, orbit 4377123
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 255, TDC = 59
+QIE10 # is: 770
+
+Invalid TDC!
+run 316472, ls 17, evn 19951290, bx 2423, orbit 4377123
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 255, TDC = 59
+QIE10 # is: 770
+
+Invalid TDC!
+run 316472, ls 17, evn 19951290, bx 2423, orbit 4377123
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 255, TDC = 59
+QIE10 # is: 770
+
+Invalid TDC!
+run 316472, ls 17, evn 19951290, bx 2423, orbit 4377123
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 255, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 17, evn 19951290, bx 2423, orbit 4377123
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 255, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 17, evn 19951290, bx 2423, orbit 4377123
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 255, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 17, evn 19951290, bx 2423, orbit 4377123
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 42, TDC = 51
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 17, evn 19951290, bx 2423, orbit 4377123
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 42, TDC = 51
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 17, evn 19951290, bx 2423, orbit 4377123
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 42, TDC = 51
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 17, evn 19951290, bx 2423, orbit 4377123
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 42, TDC = 59
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 17, evn 19951290, bx 2423, orbit 4377123
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 42, TDC = 59
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 17, evn 19951290, bx 2423, orbit 4377123
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 42, TDC = 59
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 22, evn 25453711, bx 2423, orbit 5588293
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 61, TDC = 51
+QIE10 # is: 770
+
+Invalid TDC!
+run 316472, ls 22, evn 25453711, bx 2423, orbit 5588293
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 89, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 22, evn 25453711, bx 2423, orbit 5588293
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 68, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 23, evn 27316623, bx 2423, orbit 5998992
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 250, TDC = 51
+QIE10 # is: 770
+
+Invalid TDC!
+run 316472, ls 23, evn 27316623, bx 2423, orbit 5998992
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 61, TDC = 55
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 23, evn 27316623, bx 2423, orbit 5998992
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 34, TDC = 51
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 23, evn 27316623, bx 2423, orbit 5998992
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 55, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 23, evn 27316623, bx 2423, orbit 5998992
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 34, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 23, evn 26781625, bx 2423, orbit 5881017
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 72, TDC = 59
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 23, evn 26760952, bx 2423, orbit 5876452
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 247, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 24, evn 27898679, bx 2423, orbit 6127101
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 85, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 24, evn 27743109, bx 2423, orbit 6092836
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 126, TDC = 50
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 24, evn 27743109, bx 2423, orbit 6092836
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 122, TDC = 52
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 24, evn 28523329, bx 2423, orbit 6264711
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 62, TDC = 55
+QIE10 # is: 770
+
+Invalid TDC!
+run 316472, ls 24, evn 28523329, bx 2423, orbit 6264711
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 160, TDC = 58
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 26, evn 30760224, bx 2423, orbit 6758474
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 132, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 26, evn 30760224, bx 2423, orbit 6758474
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 132, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 26, evn 30760224, bx 2423, orbit 6758474
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 132, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 26, evn 30332290, bx 2423, orbit 6663984
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 207, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 26, evn 30332290, bx 2423, orbit 6663984
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 207, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 26, evn 30332290, bx 2423, orbit 6663984
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 207, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 26, evn 30332290, bx 2423, orbit 6663984
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 240, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 26, evn 30332290, bx 2423, orbit 6663984
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 240, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 26, evn 30332290, bx 2423, orbit 6663984
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 240, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 31, evn 36376055, bx 2423, orbit 7998739
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 242, TDC = 52
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 34, evn 39850846, bx 2423, orbit 8766306
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 150, TDC = 50
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 34, evn 39850846, bx 2423, orbit 8766306
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 144, TDC = 50
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 34, evn 39850846, bx 2423, orbit 8766306
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 144, TDC = 52
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 36, evn 42336936, bx 2423, orbit 9316994
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 125, TDC = 51
+QIE10 # is: 770
+
+Invalid TDC!
+run 316472, ls 36, evn 42336936, bx 2423, orbit 9316994
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 190, TDC = 54
+QIE10 # is: 770
+
+Invalid TDC!
+run 316472, ls 36, evn 42336936, bx 2423, orbit 9316994
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 99, TDC = 55
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 36, evn 42336936, bx 2423, orbit 9316994
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 143, TDC = 50
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 37, evn 43571846, bx 2423, orbit 9590688
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 125, TDC = 51
+QIE10 # is: 770
+
+Invalid TDC!
+run 316472, ls 37, evn 43571846, bx 2423, orbit 9590688
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 187, TDC = 59
+QIE10 # is: 770
+
+Invalid TDC!
+run 316472, ls 37, evn 43571846, bx 2423, orbit 9590688
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 231, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 37, evn 43571846, bx 2423, orbit 9590688
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 99, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 37, evn 43571846, bx 2423, orbit 9590688
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 192, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 39, evn 45258008, bx 2423, orbit 9964936
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 255, TDC = 60
+QIE10 # is: 770
+
+Invalid TDC!
+run 316472, ls 39, evn 45258008, bx 2423, orbit 9964936
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 95, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 39, evn 45258008, bx 2423, orbit 9964936
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 150, TDC = 50
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 39, evn 45258008, bx 2423, orbit 9964936
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 150, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 39, evn 45258008, bx 2423, orbit 9964936
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 131, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 41, evn 47719097, bx 2423, orbit 10511829
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 255, TDC = 59
+QIE10 # is: 770
+
+Invalid TDC!
+run 316472, ls 41, evn 47719097, bx 2423, orbit 10511829
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 255, TDC = 59
+QIE10 # is: 770
+
+Invalid TDC!
+run 316472, ls 41, evn 47719097, bx 2423, orbit 10511829
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 255, TDC = 59
+QIE10 # is: 770
+
+Invalid TDC!
+run 316472, ls 41, evn 47719097, bx 2423, orbit 10511829
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 255, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 41, evn 47719097, bx 2423, orbit 10511829
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 255, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 41, evn 47719097, bx 2423, orbit 10511829
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 255, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 41, evn 47719097, bx 2423, orbit 10511829
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 102, TDC = 55
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 41, evn 47719097, bx 2423, orbit 10511829
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 102, TDC = 55
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 41, evn 47719097, bx 2423, orbit 10511829
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 102, TDC = 55
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 41, evn 47719097, bx 2423, orbit 10511829
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 102, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 41, evn 47719097, bx 2423, orbit 10511829
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 102, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 41, evn 47719097, bx 2423, orbit 10511829
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 102, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 42, evn 49223486, bx 2423, orbit 10849598
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 123, TDC = 51
+QIE10 # is: 770
+
+Invalid TDC!
+run 316472, ls 42, evn 49223486, bx 2423, orbit 10849598
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 170, TDC = 58
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 42, evn 49223486, bx 2423, orbit 10849598
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 252, TDC = 51
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 42, evn 49223486, bx 2423, orbit 10849598
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 136, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 42, evn 49223486, bx 2423, orbit 10849598
+QIE10 channel (40, 27, 4)
+TS1
+ADC = 50, TDC = 50
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 42, evn 48999399, bx 2423, orbit 10799768
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 15, TDC = 51
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 42, evn 48999399, bx 2423, orbit 10799768
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 15, TDC = 51
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 42, evn 48999399, bx 2423, orbit 10799768
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 15, TDC = 51
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 44, evn 51970035, bx 2423, orbit 11461171
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 183, TDC = 51
+QIE10 # is: 770
+
+Invalid TDC!
+run 316472, ls 44, evn 51970035, bx 2423, orbit 11461171
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 243, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 45, evn 52489125, bx 2423, orbit 11577015
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 45, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 45, evn 52489125, bx 2423, orbit 11577015
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 246, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 45, evn 52489125, bx 2423, orbit 11577015
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 149, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 46, evn 53987473, bx 2423, orbit 11910824
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 241, TDC = 51
+QIE10 # is: 770
+
+Invalid TDC!
+run 316472, ls 46, evn 53987473, bx 2423, orbit 11910824
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 241, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 46, evn 53629660, bx 2423, orbit 11831074
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 119, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 46, evn 53629660, bx 2423, orbit 11831074
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 120, TDC = 50
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 50, evn 58229036, bx 2423, orbit 12857815
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 11, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 50, evn 58245246, bx 2423, orbit 12861445
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 216, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 50, evn 58245246, bx 2423, orbit 12861445
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 231, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 50, evn 58245246, bx 2423, orbit 12861445
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 119, TDC = 53
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 50, evn 58932024, bx 2423, orbit 13014675
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 59, TDC = 59
+QIE10 # is: 770
+
+Invalid TDC!
+run 316472, ls 50, evn 58932024, bx 2423, orbit 13014675
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 103, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 50, evn 58932024, bx 2423, orbit 13014675
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 115, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 50, evn 59119199, bx 2423, orbit 13056365
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 176, TDC = 55
+QIE10 # is: 770
+
+Invalid TDC!
+run 316472, ls 50, evn 59119199, bx 2423, orbit 13056365
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 152, TDC = 59
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 52, evn 60986717, bx 2423, orbit 13478738
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 187, TDC = 51
+QIE10 # is: 770
+
+Invalid TDC!
+run 316472, ls 52, evn 60986717, bx 2423, orbit 13478738
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 255, TDC = 59
+QIE10 # is: 770
+
+Invalid TDC!
+run 316472, ls 52, evn 60986717, bx 2423, orbit 13478738
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 251, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 52, evn 60986717, bx 2423, orbit 13478738
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 148, TDC = 58
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 52, evn 60986717, bx 2423, orbit 13478738
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 148, TDC = 54
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 53, evn 62513016, bx 2423, orbit 13820467
+QIE10 channel (38, 29, 1)
+TS0
+ADC = 154, TDC = 51
+QIE10 # is: 770
+
+Invalid TDC!
+run 316472, ls 53, evn 62513016, bx 2423, orbit 13820467
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 175, TDC = 59
+QIE10 # is: 770
+
+Invalid TDC!
+run 316472, ls 53, evn 62513016, bx 2423, orbit 13820467
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 213, TDC = 55
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 54, evn 62943945, bx 2423, orbit 13917116
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 30, TDC = 60
+QIE10 # is: 770
+
+Invalid TDC!
+run 316472, ls 54, evn 62943945, bx 2423, orbit 13917116
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 52, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 56, evn 65323824, bx 2423, orbit 14451414
+QIE10 channel (38, 29, 1)
+TS1
+ADC = 248, TDC = 50
+QIE10 # is: 770
+
+Invalid TDC!
+run 316472, ls 56, evn 65323824, bx 2423, orbit 14451414
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 72, TDC = 55
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 56, evn 65323824, bx 2423, orbit 14451414
+QIE10 channel (40, 27, 4)
+TS2
+ADC = 3, TDC = 51
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 56, evn 66174211, bx 2423, orbit 14642209
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 239, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 56, evn 66174211, bx 2423, orbit 14642209
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 239, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 56, evn 66174211, bx 2423, orbit 14642209
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 239, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 56, evn 66174211, bx 2423, orbit 14642209
+QIE10 channel (38, 29, 4)
+TS0
+ADC = 188, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 56, evn 66174211, bx 2423, orbit 14642209
+QIE10 channel (38, 29, 4)
+TS1
+ADC = 188, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 56, evn 66174211, bx 2423, orbit 14642209
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 188, TDC = 59
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316472, ls 56, evn 65788589, bx 2423, orbit 14555694
+QIE10 channel (38, 29, 1)
+TS2
+ADC = 118, TDC = 57
+QIE10 # is: 770
+
+Invalid TDC!
+run 316472, ls 56, evn 65788589, bx 2423, orbit 14555694
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 175, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 56, evn 65788589, bx 2423, orbit 14555694
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 182, TDC = 52
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 57, evn 67396677, bx 2423, orbit 14917003
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 87, TDC = 59
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 57, evn 67177185, bx 2423, orbit 14867448
+QIE10 channel (40, 27, 4)
+TS0
+ADC = 149, TDC = 55
+QIE10 # is: 3426
+
+Invalid TDC!
+run 316472, ls 58, evn 68074562, bx 2423, orbit 15069532
+QIE10 channel (40, 27, 1)
+TS0
+ADC = 99, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 58, evn 68074562, bx 2423, orbit 15069532
+QIE10 channel (40, 27, 1)
+TS1
+ADC = 99, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 58, evn 68074562, bx 2423, orbit 15069532
+QIE10 channel (40, 27, 1)
+TS2
+ADC = 99, TDC = 51
+QIE10 # is: 834
+
+Invalid TDC!
+run 316472, ls 59, evn 69281067, bx 2423, orbit 15341026
+QIE10 channel (38, 29, 4)
+TS2
+ADC = 230, TDC = 52
+QIE10 # is: 3362
+
+Invalid TDC!
+run 316613, ls 101, evn 46249455, bx 2643, orbit 26294974
+QIE10 channel (-32, 23, 1)
+TS0
+ADC = 11, TDC = 51
+QIE10 # is: 119
+
+Invalid TDC!
+run 316380, ls 709, evn 560479341, bx 2608, orbit 185799746
+QIE10 channel (-36, 9, 4)
+TS0
+ADC = 40, TDC = 51
+QIE10 # is: 2848
+
+Invalid TDC!
+run 316380, ls 709, evn 560479341, bx 2608, orbit 185799746
+QIE10 channel (-36, 9, 4)
+TS1
+ADC = 40, TDC = 51
+QIE10 # is: 2848
+
+Invalid TDC!
+run 316380, ls 709, evn 560479341, bx 2608, orbit 185799746
+QIE10 channel (-36, 9, 4)
+TS2
+ADC = 40, TDC = 51
+QIE10 # is: 2848
+

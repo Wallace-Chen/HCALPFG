@@ -1,0 +1,72 @@
+This is the instruction to do HCAL HF Timing analysis from generating Tuple to making plots.
+
+0. Setting Up
+  cmsrel CMSSW_10_1_2
+  Go to the page: https://github.com/HCALPFG/HcalTupleMaker/tree/PFG-CMSSW_9_0_X, and follow instruction to set up the environment.
+
+Three steps:
+
+1. Generating Tuples:
+  For Timing analysis, better to use the dataset: IsolatedBunch. For example: /IsolatedBunch/Run2018A-v1/RAW
+  
+  Go to https://cmsweb.cern.ch/das/, and tpye your query like: file dataset=/IsolatedBunch/Run2018A-v1/RAW run=315840, to list all files for runnumber 315840 under your interested dataset.
+  Or you can do command in the terminal: dasgoclient --query="file dataset=/JetHT/Run2018A-v1/RAW run=315840" > filelist_315840.txt, to direct the list of all files into filelist_315840.txt.
+
+  To generate Tuple, normally will use CRAB. Then you need two files: crabConfig_Global_RAW_cfg.py and pfg_Global_RAW_cfg.py.
+  crabConfig_Global_RAW_cfg.py is the crab configuration file and pfg_Global_RAW_cfg.py is to set parameter.
+
+  For crabConfig_Global_RAW_cfg.py, you may want to change things like:
+    datasetnames, which dataset you want to use
+    storagepath, where you want your generated Tuple root file go
+    psetname, which is your cmsRun file
+    OutputFilename,
+    storageSite,
+    config.Data.runRange
+    config.Data.splitting
+  For pfg_Global_RAW_cfg.py, the cmsRun file, you may need to edit:
+    around the line 35, options.loadFromFile('inputFiles','filelist.txt'), change 'filelist.txt' to your file contaning all root files to be processed, like: 'filelist_315840.txt'
+    around the line 153, process.GlobalTag.globaltag = '101X_dataRun2_HLT_v7', change to your interested GlobalTag based on your CMSSW release, which can be found: https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideFrontierConditions#Global_Tags_for_2018_data_taking
+    or maybe theh output file name around line 38, which is optional.
+    other setting can be done upon your request.
+
+  Now you can use CRAB to run: crab submit -c crabConfig_Global_RAW_cfg.py. To check status: crab status.
+  Or you may want to run locally: cmsRun pfg_Global_RAW_cfg.py.
+
+  In the end, you should have generated Tuple root file.
+
+
+2. Generate Histograms
+  Now you have Tuples, and we want to extract useful information from it and fill them into histograms which can be ploted in the next step.
+
+  This step is very easy, just run: ./HcalPfgStudies arg1 arg2 arg3
+  where arg1 is the path you store your Tuple files, should be the same as the storagepath in the crabConfig_Global_RAW_cfg.py in the first step.
+  arg2 is the tree path in the Tuple file, you need to use TBrowser in root to have a look first.
+  and arg3 is the number of files you want to run.
+  Here is an examaple: ./HcalPfgStudies /eos/cms/store/user/yuanc/NTuple/PFG_HF_timing/315689_IsolatedBunch hcalTupleTree/tree 0
+
+  Then you will find the output root file containing all histograms named "hcal_histograms.root" or maybe something similar to this.
+
+  Under some circumstances where you need to change some algorithm or need to add more histogram, you has to edit HcalPfgStudies.C. After you make the modification, to compile, simply type: make. You will have updated binary executed file: HcalPfgStudies. Or you can run: gcc -Wall -o HcalPfgStudies HcalPfgStudies.C `root-config --cflags --glibs`
+
+
+3. Making Plots
+  Now you have all histograms, simply draw your interested histograms.
+  You can have a quick look in root.
+
+  Or you can use python script: plot.py hcal_histograms.root
+  Then you have mutiple pdfs you can download.
+
+  Note, in plot.py there are only a few plots. If you want more, do it by yourself in the script to add more codes.
+
+
+
+Afterword:
+
+It should be mentioned that step 2 may take long time to run, in this case, please consider to use screen or batch mode, then you are free to close your terminal and resume later.
+
+For batch mode, you need one more file: HFTiming. First edit command in HFTiming and run: bsub -q 2nd -J HFTiming < HFTiming. Check status: bjobs.
+More information about batch mode, see: https://twiki.cern.ch/twiki/bin/view/Main/BatchJobs.
+
+<END>
+
+

@@ -1,0 +1,7 @@
+CURRDIR=/afs/cern.ch/user/y/yuanc/HCAL/PFG_HF_timing/CMSSW_10_2_0_pre2/src/HCALPFG/HcalTupleMaker/test/work/6666-6711
+FILE=HcalPfgStudies
+OUTPUT=hcal_histograms_rerun.root out_invalidTDC.txt out_ts2fraction.txt
+
+cd ${CURRDIR}
+eval `./${FILE} /eos/cms/store/user/yuanc/IsolatedBunch/Run2018A-v1_RAW_20180523_171759/180523_151824/0000 hcalTupleTree/tree 0`
+cp ${OUTPUT} ${CURRDIR}
